@@ -1,0 +1,4 @@
+This is Renel's second git project. Following a tutorial assignment found in The Odin Project's Foundation curriculum.
+In order to have come this far, I have learned how to install and run a virtual instance of Xubuntu, a linux distro, on my Windows PC and familiarized myself with working on the command line including navigating directories, moving files, links, etc.
+Currently there is a focus on learning how to navigate and use Git and Github. I had never worked with VCS before and at first it has been intimidating, but getting more comfortable over time. 
+All in all, expanding knoweldge as a computer user has been an excellent mental exercise in learning. 
